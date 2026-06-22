@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+
+p {
+    width: 50%;     
+    margin: 10px auto;
+    text-indent: 40px;
+    text-align: justify;
+    font-size: 17px;
+}
+
+#YT{
+    position: fixed;
+    top: -10px;
+    left: 20px;
+    width: 110px;
+
+}
+
+.Texto{
+    margin-top: 80px;
+}
