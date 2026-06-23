@@ -10,10 +10,13 @@ body {
 }
 h1{
     font-size: 50px;
+    font-family: "Cinzel Decorative", serif;
+    text-shadow: 300px black;
 }
 
 h2{
     font-size: 35px;
+    text-shadow: 50px black;
 }
 
 
@@ -35,4 +38,16 @@ p {
 
 .Texto{
     margin-top: 80px;
+}
+.um{
+    font-family: "Zen Dots";
+}
+.dois{
+    font-family: "Sansation";
+}
+.tres{
+    font-family: "Bodoni Moda";
+}
+.quatro{
+    font-family: "Tilt Neon";
 }
